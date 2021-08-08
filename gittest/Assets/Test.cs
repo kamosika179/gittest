@@ -5,6 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
     //ファイルを作成しました
+    //デスクトップから編集
     // Start is called before the first frame update
     void Start()
     {
